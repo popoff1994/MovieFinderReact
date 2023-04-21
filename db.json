@@ -1,0 +1,105 @@
+{
+  "favorites": [
+    {
+      "adult": false,
+      "backdrop_path": "/ouB7hwclG7QI3INoYJHaZL4vOaa.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        12,
+        35
+      ],
+      "id": 315162,
+      "original_language": "en",
+      "original_title": "Puss in Boots: The Last Wish",
+      "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+      "popularity": 2628.314,
+      "poster_path": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+      "release_date": "2022-12-07",
+      "title": "Puss in Boots: The Last Wish",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 5183
+    }
+  ],
+  "favoriteId": [
+    {
+      "id": 315162
+    }
+  ],
+  "favoriteSeries": [
+    {
+      "backdrop_path": "/51zdsotKKrQL3OWqpewV5z2oXr3.jpg",
+      "first_air_date": "2012-01-11",
+      "genre_ids": [
+        16,
+        10759
+      ],
+      "id": 38693,
+      "name": "Ninjago: Masters of Spinjitzu",
+      "origin_country": [
+        "US",
+        "DK"
+      ],
+      "original_language": "en",
+      "original_name": "Ninjago: Masters of Spinjitzu",
+      "overview": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd and Nya to save the world.",
+      "popularity": 195.844,
+      "poster_path": "/fqb9X4th2p2voefRLqdv1xoZQmC.jpg",
+      "vote_average": 7.8,
+      "vote_count": 642
+    },
+    {
+      "backdrop_path": "/oS3nip9GGsx5A7vWp8A1cazqJlF.jpg",
+      "first_air_date": "2011-10-28",
+      "genre_ids": [
+        18,
+        9648,
+        10765
+      ],
+      "id": 39351,
+      "name": "Grimm",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Grimm",
+      "overview": "After Portland homicide detective Nick Burkhardt discovers he's descended from an elite line of criminal profilers known as \"Grimms,\" he increasingly finds his responsibilities as a detective at odds with his new responsibilities as a Grimm.",
+      "popularity": 203.947,
+      "poster_path": "/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
+      "vote_average": 8.3,
+      "vote_count": 2744
+    },
+    {
+      "backdrop_path": "/x4lxFIhhrDI4nWtV8osnYwbGESV.jpg",
+      "first_air_date": "2009-09-23",
+      "genre_ids": [
+        35
+      ],
+      "id": 1421,
+      "name": "Modern Family",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Modern Family",
+      "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
+      "popularity": 188.176,
+      "poster_path": "/fu5vEUHgxkAPmX26ISQXqHmlPMq.jpg",
+      "vote_average": 7.8,
+      "vote_count": 2149
+    }
+  ],
+  "favoriteSeriesId": [
+    {
+      "id": 38693
+    },
+    {
+      "id": 39351
+    },
+    {
+      "id": 1421
+    }
+  ]
+}
